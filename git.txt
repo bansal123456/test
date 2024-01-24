@@ -1,0 +1,10 @@
+how to add file in git hub step by step
+
+1. git init
+2. git commit -m "commit name"
+3. git add file path
+4. git commit -m "commit name"
+5. git remote add origin https://github.com/bansal123456/test.git
+6. git push -u origin (branch name)
+
+all done now you can see on git hub
